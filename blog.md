@@ -16,7 +16,7 @@ sha ye bu hui de na zhong!
  1. ` git add . ` 将这个文件夹下的东西保存到暂存区（` git status`查看暂存区）
  2. ` git commit -am "xxx" ` 添加到本地库（` -a ` 也可以添加到本地库，不过需要进入vim编辑器编辑备注 ` -am "xxx" ` 就可以直接在xxx中添加备注)
  3. ` git push origin master ` 推送到git远程库
-  1. ` origin ` 是一个** git地址标签**可以用 ` git remote set-url xxx git@github.com:xxx/xxx.git `来更改标签
+  1. ` origin ` 是一个 **git地址标签** 可以用 ` git remote set-url xxx git@github.com:xxx/xxx.git `来更改标签
   2. ` master ` 是一个**分支**，` git branch -a ` 可以查看当前所有分支。 ` git branch xxx ` 可以创建xxx分支。` git merge ` 可以合并分支
 
   
