@@ -9,7 +9,7 @@ sha ye bu hui de na zhong!
 - so,i will work hard!
 - good good xuexi  day day up! 233333....
 
-1. 在git上添加项目需要创建一个仓库
+1. 在git上添加项目需要创建一个**仓库**
 2. 生成地址
 3. 在终端中 ` git clone ` 这个地址
 4. 可以在终端用命令行修改仓库中的内容
